@@ -1,3 +1,25 @@
-This report presents an analysis of electronics pricing in the Netherlands from September to December 2024. 
-It offers key insights into end-of-year pricing strategies aimed at helping retailers better understand market trends and adjust their pricing decisions.  
-The analysis was originally prepared as part of a case study for a Data Consultant role, combining data visualization and business insights to support pricing optimization.
+# Electronics Pricing Analysis
+
+This report presents an analysis of **electronics pricing trends in the Netherlands** between **September and December 2024**.
+
+The goal is to uncover key insights into **Black Friday** and **end-of-year pricing strategies**, helping retailers understand market dynamics and make informed pricing decisions.
+
+Originally prepared as part of a **Data Consultant case study**, this project combines:
+
+* 📊 **Data visualization**
+* 💡 **Business insights**
+* 📈 **Actionable findings** for pricing optimization
+
+---
+
+## 📄 Presentation
+
+A summary of the findings and visuals is available here:
+**`Electronics Pricing Review.pdf`**
+
+---
+
+## 📬 Contact
+
+For questions or feedback, feel free to reach out:
+[leonardo.porcacchia@gmail.com](mailto:leonardo.porcacchia@gmail.com)
